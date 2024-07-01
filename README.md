@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm Hebown.👋
+## 你好，我是Hebown。
 <!--
 **Hebown/Hebown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### about me:
+### 关于我：
+- a sophomore of zju-cs. 一名浙大计科大耳狗。
+- currently learning cpp/py/general education courses/... 正在学习cpp/py/通识课/...
+- looking for help with my gpa(qaq) 急需大佬拯救我的gpa(QAQ)
+- How to reach/know me :
+  - QQ:960545463
+  - wechat:lin18700939969
+  - blog(not complete):https://hebown.github.io
+- Fun fact:
+  - don't be deceived with my appearance.
