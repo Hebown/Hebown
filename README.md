@@ -22,5 +22,3 @@ Here are some ideas to get you started:
   - QQ:960545463
   - wechat: HebownSaysHello;
   - blog(not complete):https://hebown.github.io
-- Fun fact:
-  - don't be deceived with my appearance.
