@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - a sophomore of zju-cs. 一名浙大计科大耳狗。
 - currently learning cpp/py/general education courses/... 正在学习cpp/py/通识课/...
 - How to reach/know me :
-  - QQ:960545463
   - wechat: HebownSaysHello;
   - blog(not complete):https://hebown.github.io
